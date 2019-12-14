@@ -1,4 +1,4 @@
-# Experiencing HTML Lab
+htt# Experiencing HTML Lab
 
 ## Learning Goals
 
@@ -36,7 +36,8 @@ Remember your collection of things? Now write in a few of them in your file.
 Here's an example from us (songs in the English post-punk genre).
 
 ```text
-"Love Will Tear Us Apart"
+"Love Will Tear Us
+Apart"
 "Bela Lugosi's Dead"
 "A Forest"
 "Nine While Nine"
